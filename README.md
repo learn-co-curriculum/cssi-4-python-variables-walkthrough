@@ -104,3 +104,5 @@ major = college
 print major
 print college
 ```
+
+<a href='https://learn.co/lessons/cssi-4-python-variables-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>

@@ -105,4 +105,4 @@ print major
 print college
 ```
 
-<a href='https://learn.co/lessons/cssi-4-python-variables-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4-python-variables-walkthrough' title='Python Variable Assignment'>Python Variable Assignment</a> on Learn.co and start learning to code for free.</p>
